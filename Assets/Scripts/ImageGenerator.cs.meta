@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8ab53d98c95ef594ab1d9c3d76ead3fb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - emptyRowPrefab: {instanceID: 0}
+  - squarePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
